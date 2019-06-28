@@ -1,0 +1,4 @@
+﻿SourceProjectName;SourceSubProjectName;SourceBranchName;TargetProjectName;TargetRepoName;TransferedSuccessfully
+TeamProjectName;Folder/MyProject;MainBranch;IDnP;Target.Repo.Name;FALSE
+TeamProjectName;Folder2/AnotherProject;MainBranch;IDnP;AnotherTargetRepo;FALSE
+TeamProjectName;SomeRootProject;MainBranch;IDnP;Yet.Another.Repo;FALSE
